@@ -11,7 +11,7 @@ You can follow the official instructions to download go on your system [here](ht
 go version go1.20.2 linux/amd64
 ```
 
-#### Installing discordgo:
+### Installing discordgo:
 
 To install the discordgo library, open the terminal application for your system:
 
